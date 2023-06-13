@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">\n\n\n</string>
+    <string name="text2">\n</string>
+    <string name="text3" />
+    <string name="text10" />
+    <string name="text4" />
+    <string name="text13" />
+    <string name="text7" />
+    <string name="text9" />
+    <string name="text6" />
+    <string name="text5" />
+    <string name="text12" />
+    <string name="text8" />
+    <string name="text11" />
+</resources>
